@@ -27,7 +27,7 @@ This script is intended for use as an **On-Demand Diagnostic** through an MDM so
 ### **Testing Protocols**
 Before implementing automated cleanup based on these results, refer to the following documentation for establishing safe testing groups:
 
-Guide: Create or Delete a Blueprint for Testing https://github.com/RickGua90/How_To/blob/main/How_to_Create_Blueprints_IRU_Kandji.pdf
+Guide: Create or Delete a Blueprint for Testing https://github.com/RickGua90/How_To_Do_It
 
 ---
 
