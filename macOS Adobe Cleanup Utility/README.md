@@ -27,7 +27,7 @@ This script is intended for use as a **Custom Script** or **One-time Action** in
 ### **Testing Protocols**
 Before a global rollout, validate the cleanup on a dedicated testing group to ensure no active production versions are targeted. Refer to my guide here for group management:
 
-**Guide: Create or Delete a Blueprint for Testing** https://github.com/RickGua90/How_To/blob/main/How_to_Create_Blueprints_IRU_Kandji.pdf
+**Guide: Create or Delete a Blueprint for Testing** https://github.com/RickGua90/How_To_Do_It
 
 ---
 
