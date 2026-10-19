@@ -32,7 +32,7 @@ This script is designed to function as a **Post-install script** within an MDM I
 ### **Testing Protocols**
 Before a global rollout, validate the deployment using a dedicated testing library. For detailed instructions on establishing a secure testing environment and managing groups, refer to the following documentation:
 
-**Guide: Create or Delete a Blueprint for Testing** https://github.com/RickGua90/How_To/blob/main/How_to_Create_Blueprints_IRU_Kandji.pdf
+**Guide: Create or Delete a Blueprint for Testing** https://github.com/RickGua90/How_To_Do_It
 
 ---
 
