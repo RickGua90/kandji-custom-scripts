@@ -33,7 +33,7 @@ This script is designed to be deployed as a **Custom Script** within an MDM libr
 ### **Testing Protocols**
 Before a global rollout, validate the deployment using a dedicated testing group. For detailed instructions on establishing a secure testing environment, refer to the following documentation:
 
-**Guide: Create or Delete a Blueprint for Testing** https://github.com/RickGua90/How_To/blob/main/How_to_Create_Blueprints_IRU_Kandji.pdf
+**Guide: Create or Delete a Blueprint for Testing** https://github.com/RickGua90/How_To_Do_It
 
 ---
 
